@@ -109,6 +109,21 @@ https://hak5.org/collections/bfcm
 https://covertinstruments.com/collections/2025-black-friday-sale   
 - Up to 50% off, see page for details
 
+**Minis Forum** - great platforms for compact homelabs  
+https://store.minisforum.com/pages/minisforum-black-friday  
+- discount varies, see site
+**Ends 12/2/2025**
+
+**Geekom** - great platforms for compact homelabs  
+https://www.geekompc.com/black-friday/  
+- Discount varies, see site  
+**Ends 12/2/2025**  
+
+**Back Market** Refurb tech marketplace  
+https://www.backmarket.com/en-us/e/black-friday   
+- Discount varies, see site  
+
+
 
 ## Books
 
