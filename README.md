@@ -1,3 +1,6 @@
+
+And as of ~2 hours ago, it looks like https://github.com/0x90n/InfoSec-Black-Friday has been updated. Go there, I promise it is better. 
+
 # InfoSec Black Friday Deals 2025 Edition
 I went looking for the list I normally use and it doesn't seem to be updated so I'm taking a crack at putting an Infoec Black Friday List together. I'll try to make sure the deals aren't garbage and de-shittify the list where possible. 
 
