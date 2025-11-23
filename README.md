@@ -11,6 +11,9 @@ This is my first time putting a list like this together. Even if something gets 
  - No tracking/affiliate links. (this isn't monetized) 
  - I'll put start and end dated with each deal 
 
+ Training I have taken and I like is marked with 💖
+ Stuff I have used is marked with ✨
+
 If you have additional deals you would like to add, see the instructions at the bottom of the page. No affiliate links please!! 
 
 ## Table of contents
@@ -39,11 +42,15 @@ https://www.portdroid.net/black-friday-2025/
 ## Courses & Training
 
 Not really a Black Friday Sale becasue this is more of an always thing: 
-**AntiSyphon Pay Forward What You Can Training**   
+**AntiSyphon Pay Forward What You Can Training** 💖   
 https://www.antisyphontraining.com/pay-forward-what-you-can/list/  
 This class starts 12/2 - Highly Recommended: https://www.antisyphontraining.com/product/getting-started-in-security-with-bhis-and-mitre-attck-with-john-strand/  
 
-**LetsDefend** - Defender focus   
+**Blue Cape Security** 💖 Defender focus  
+https://bluecapesecurity.com/#training  
+- 25% off ``FALL25``
+
+**LetsDefend** 💖 - Defender focus   
 https://letsdefend.io/  
 - 50% off annual subscription ``BLCKFRDY``   
 - 35% off first month ``BLCKFRDY35``  
@@ -56,7 +63,7 @@ https://training.leveleffect.com/catalog
 https://dnsfordevelopers.com/  
 - 66% off (Normally $149, on sale for $49)  
 
-**White Knight Labs** Offensive focus  
+**White Knight Labs** 💖 Offensive focus  
 https://training.whiteknightlabs.com/  
 - 50% off ``WKLBLACKFRIDAY50``  
 **ENDS 12/12/2025**
@@ -102,7 +109,6 @@ https://academy.breakdev.org/evilginx-mastery
 https://cyberwarfare.live/black_friday/  
 - Up to 90% off  
 
-
 **Cloud Security Alliance** Cert Bundle  
 https://e.cloudsecurityalliance.org/cybermonday2025  
 - 50% off the bundle
@@ -126,11 +132,11 @@ https://www.hackthebox.com/blog/New-pro-labs-discount
 https://hak5.org/collections/bfcm  
 - Discounts vary, see page for details
 
-**Covert Instruments**  
+**Covert Instruments** :sparkles    
 https://covertinstruments.com/collections/2025-black-friday-sale   
 - Up to 50% off, see page for details
 
-**Minis Forum** - great platforms for compact homelabs  
+**Minis Forum** ✨ - great platforms for compact homelabs  
 https://store.minisforum.com/pages/minisforum-black-friday  
 - discount varies, see site
 **Ends 12/2/2025**
@@ -154,7 +160,7 @@ https://www.backmarket.com/en-us/e/black-friday
 
 ## Services
 
-**ProtonMail**  
+**ProtonMail** ✨  
 https://proton.me/mail/black-friday#pricing  
 - 50% off annual subscription
 
@@ -162,7 +168,7 @@ https://proton.me/mail/black-friday#pricing
 https://tinyshield.proxyman.com/pricing  
 - 60% off  
 
-**Namecheap** - Buy a domain for that project yout probably won't start (I've never done this, I promise)  
+**Namecheap** - Buy a domain for that project you probably won't start (I've never done this, I promise)  
 https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/  
 - Up to 99% off
 
