@@ -64,7 +64,12 @@ https://training.whiteknightlabs.com/
 **Altered Security** Offensive focus  
 https://www.alteredsecurity.com/  
 - Up to 25% off Bootcamps  
-**Ends 12/17/2025**
+**Ends 12/17/2025**  
+
+**Trainsec** - Security and Developer focused  
+https://trainsec.net/cybersecurity-courses-black-friday-2025  
+- 40% off individual courses
+**Ends 12/1/2025**  
 
 **Hexordia Training** Defensive focus  
 https://learn.hexordia.com/  
@@ -92,6 +97,11 @@ https://academy.bluraven.io/blackfriday2025
 **Evilginx Mastry Course** Offensive focus  
 https://academy.breakdev.org/evilginx-mastery  
 - 50% off ``BLACKWEEK``
+
+**Cyberwarfare Labs** - Offensive focus  
+https://cyberwarfare.live/black_friday/  
+- Up to 90% off  
+
 
 **Cloud Security Alliance** Cert Bundle  
 https://e.cloudsecurityalliance.org/cybermonday2025  
