@@ -1,11 +1,11 @@
 # InfoSec Black Friday Deals 2025 Edition
 I went looking for the list I normally use and it doesn't seem to be updated so I'm taking a crack at putting an Infoec Black Friday List together. I'll try to make sure the deals aren't garbage and de-shittify the list where possible. 
 
-Inspired by: 
+I'm definitely not the first (and hopefully not the worst) to put this sort of list together. Inspired by:   
 https://github.com/0x90n/InfoSec-Black-Friday  
 https://github.com/CriimBow/InfoSec-Black-Friday  
 
-This is my first time putting a list like this together. Even if something gets on here, do your due dilligence to ensure that you aren't getting screwed out of your hard earned money. DO YOUR OWN RESEARCH!!! 
+This is my first time putting a list like this together. Even if something gets on here, do your due dilligence to ensure that you aren't getting screwed out of your hard earned money. DO YOUR OWN RESEARCH!!! Also, while investing in yourself is important, don't spend money you don't have!  
 
  - Deals are publically announced 
  - No tracking/affiliate links. (this isn't monetized) 
@@ -130,5 +130,12 @@ https://tinyshield.proxyman.com/pricing
 https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/  
 - Up to 99% off
 
+## Contribute 
+Submit a PR  and add yourself to the credits  
+
 ## Credits
 Add yourself to the end of the list here, Thanks!
+
+If you want to buy me a Celcius or a coffee, or whatever:  
+**at least 50% of this will be forwarded to the Rural Technology Fund**  
+https://buymeacoffee.com/ps_lo  
