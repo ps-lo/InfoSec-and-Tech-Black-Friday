@@ -91,7 +91,18 @@ https://academy.bluraven.io/blackfriday2025
 
 **Evilginx Mastry Course** Offensive focus  
 https://academy.breakdev.org/evilginx-mastery  
-- 50% off ``BLACKWEEK``  
+- 50% off ``BLACKWEEK``
+
+**Cloud Security Alliance** Cert Bundle  
+https://e.cloudsecurityalliance.org/cybermonday2025  
+- 50% off the bundle
+**Cyber Monday Only Start: Dec. 1, 12 AM PST | End: Dec. 2, 12 AM PST**
+
+**Cisco Professional Training** Cert training 
+https://learningnetworkstore.cisco.com/  
+- Select courses 40% off
+- Additional door busters Cyber Monday 8:00AM PT - 12:00PM PT
+**11/24/2025 8:00AM PT - 12/2/2028 8:00AM PT
 
 ## Practical Labs  
 
@@ -151,6 +162,7 @@ Submit a PR  and add yourself to the credits
 ## Credits
 Add yourself to the end of the list here, Thanks!
 
+## Thanks for checking this out
 If you want to buy me a Celcius or a coffee, or whatever:  
 **at least 50% of this will be forwarded to the Rural Technology Fund**  
 https://buymeacoffee.com/ps_lo  
