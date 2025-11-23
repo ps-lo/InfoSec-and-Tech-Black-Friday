@@ -32,6 +32,9 @@ If you have additional deals you would like to add, see the instructions at the 
 https://grayhatwarfare.com/packages  
 - Discount on Premium and Enterprise Package 
 
+**PortDroid**  
+https://www.portdroid.net/black-friday-2025/  
+- 50% off, code ``CYBER_2025``  
 
 ## Courses & Training
 
@@ -80,9 +83,21 @@ https://learn.ine.com/promo/black-friday-2025
 
 **Offsec** - Offensive and Defensive topics  
 https://www.offsec.com/  
-- 20% off Learn One  
+- 20% off Learn One
 
-## Practical Labs
+**Blu Raven** Defensive focus  
+https://academy.bluraven.io/blackfriday2025  
+- 35% off ``BFCM25``
+
+**Evilginx Mastry Course** Offensive focus  
+https://academy.breakdev.org/evilginx-mastery  
+- 50% off ``BLACKWEEK``  
+
+## Practical Labs  
+
+**HTB Cyber Pro Labs** 
+https://www.hackthebox.com/blog/New-pro-labs-discount  
+- 25% discount ``novprolabsannual25off``  
 
 ## Hardware
 
@@ -105,7 +120,11 @@ https://covertinstruments.com/collections/2025-black-friday-sale
 
 **ProtonMail**  
 https://proton.me/mail/black-friday#pricing  
-- 50% off annual subscription  
+- 50% off annual subscription
+
+**Tiny Sheild** Firewall for Mac  
+https://tinyshield.proxyman.com/pricing  
+- 60% off  
 
 **Namecheap** - Buy a domain for that project yout probably won't start (I've never done this, I promise)  
 https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/  
