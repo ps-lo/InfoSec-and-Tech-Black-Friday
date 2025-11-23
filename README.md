@@ -12,7 +12,7 @@ This is my first time putting a list like this together. Even if something gets 
 
  - Deals are publically announced 
  - No tracking/affiliate links. (this isn't monetized) 
- - I'll put start and end dated with each deal 
+ - I'll put an end dated with each deal where possible
 
  Training I have taken and I like is marked with 💖
  Stuff I have used is marked with ✨
@@ -38,7 +38,9 @@ If you have additional deals you would like to add, see the instructions at the 
 | --- | --- | --- | --- |
 | **Grayhat Warfare** | https://grayhatwarfare.com/packages | Discount on Premium and Enterprise Package | |
 | **PortDroid** | https://www.portdroid.net/black-friday-2025/ | 50% off, code ``CYBER_2025`` | |
-
+| **ThreatZone** | https://app.threat.zone/ | 35% Discount on Plans ``HAPPYHOLIDAYS35`` | **ENDS 12/31/2025** |
+| **Pulsedive** | https://pulsedive.com/purchase/pro | 35% off annual or monthly plan for 12 months ``BLACKFRIDAY25`` | **ENDS 12/1/2025** |
+ 
 ## Courses & Training
 
 | Organization | URL | Discount Details | Notes |
@@ -72,9 +74,11 @@ If you have additional deals you would like to add, see the instructions at the 
 | --- | --- | --- | --- |
 | **Hak5** | https://hak5.org/collections/bfcm | Discounts vary, see page for details | |
 | **Covert Instruments** ✨ | https://covertinstruments.com/collections/2025-black-friday-sale | Up to 50% off, see page for details | |
+| **Practical Physical Exploitation** | https://store.physicalexploit.com/ | Black RFIDay!! Save $50 on all Stealth Decoy Readers and $75 on all Longrange Data Interpreters! No Code Needed! | **ENDS 12/5/2025** | 
 | **Minis Forum** ✨ | https://store.minisforum.com/pages/minisforum-black-friday | discount varies, see site | Great platforms for compact homelabs **Ends 12/2/2025** |
 | **Geekom** | https://www.geekompc.com/black-friday/ | Discount varies, see site | great platforms for compact homelabs **Ends 12/2/2025** | 
-| **Back Market** | https://www.backmarket.com/en-us/e/black-friday | Discount varies, see site | Refurb tech marketplace |  
+| **Back Market** | https://www.backmarket.com/en-us/e/black-friday | Discount varies, see site | Refurb tech marketplace |
+| 
 
 ## Books
 
