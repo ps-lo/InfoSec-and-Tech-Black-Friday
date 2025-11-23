@@ -56,11 +56,13 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Hexordia Training** | https://learn.hexordia.com/ | 35% off classes with ``BF25`` | Defensive focus **Ends 12/2/2025** |
 | **Cyber 5W** | https://academy.cyber5w.com/ | 50% off courses ``blk25`` | defender focus **ENDS 11/20/2025** | 
 | **INE** | https://learn.ine.com/promo/black-friday-2025 | Discount varies, see site | Cyber, networking, etc **Ends 12/4/2024** |
+| **WiFi Challenge Academy** | https://academy.wifichallenge.com/ | 25% off CWP course and exam | Offensive focus |
 | **Offsec** | https://www.offsec.com/ | 20% off Learn One | Offensive and Defensive topics |  
 | **Blu Raven** | https://academy.bluraven.io/blackfriday2025 | 35% off ``BFCM25`` | Defensive focus |  
 | **Evilginx Mastry Course** | https://academy.breakdev.org/evilginx-mastery | 50% off ``BLACKWEEK`` | Offensive focus |
 | **Cloud Security Alliance** | https://e.cloudsecurityalliance.org/cybermonday2025 | 50% off the bundle | Cert Bundle **Cyber Monday Only Start: Dec. 1, 12 AM PST | End: Dec. 2, 12 AM PST** | 
 | **Cisco Professional Training** | https://learningnetworkstore.cisco.com/ | Select courses 40% off  Additional door busters Cyber Monday 8:00AM PT - 12:00PM PT | Cisco Cert training **11/24/2025 8:00AM PT - 12/2/2028 8:00AM PT** |
+| **Maldev Academy** | https://maldevacademy.com/ | 25% off with code ``BLKFRIDAY`` | Offensive and defensive courses |
 
 ## Practical Labs  
 
