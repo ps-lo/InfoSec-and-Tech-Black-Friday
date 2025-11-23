@@ -111,13 +111,5 @@ https://proton.me/mail/black-friday#pricing
 https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/  
 - Up to 99% off
 
-
-
-## How to edit formatting
-Bold the company/page title with /** double stars on either end /**
-Backticks `` around coupon codes e.g. code
-At the end of a line, place a backslash for newline (\)
-After a link, please use a double-space ( )
-
 ## Credits
 Add yourself to the end of the list here, Thanks!
