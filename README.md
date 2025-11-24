@@ -2,7 +2,7 @@
 And as of 11/23 ~@11 AM, it looks like https://github.com/0x90n/InfoSec-Black-Friday has been updated. Go there, I promise it is probably better. 
 
 # InfoSec Black Friday Deals 2025 Edition
-I went looking for the list I normally use and it doesn't seem to be updated so I'm taking a crack at putting an Infoec Black Friday List together. I'll try to make sure the deals aren't garbage and de-shittify the list where possible. 
+I went looking for the list I normally use and it doesn't seem to be updated so I'm taking a crack at putting an Infoec Black Friday List together. Something a little different here is I've also added in some homelab related hardware and other "non security" tech. No amazon links, no VPNs, No junk. I've reviewed these offers to make sure they are active. I'll try to make sure the deals aren't garbage and de-shittify the list where possible too. 
 
 I'm definitely not the first (and hopefully not the worst) to put this sort of list together. Inspired by:   
 https://github.com/0x90n/InfoSec-Black-Friday  
@@ -10,12 +10,12 @@ https://github.com/CriimBow/InfoSec-Black-Friday
 
 This is my first time putting a list like this together. Even if something gets on here, do your due dilligence to ensure that you aren't getting screwed out of your hard earned money. DO YOUR OWN RESEARCH!!! Also, while investing in yourself is important, don't spend money you don't have!  
 
- - Deals are publically announced 
+ - Deals are publically announced and sourced from emails, social media, and checking some of my favorite websites. 
  - No tracking/affiliate links. (this isn't monetized) 
  - I'll put an end dated with each deal where possible
 
  Training I have taken and I like is marked with 💖
- Stuff I have used is marked with ✨
+ Gear I have used is marked with ✨
 
 If you have additional deals you would like to add, see the instructions at the bottom of the page. No affiliate links please!! 
 
@@ -63,6 +63,7 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Cloud Security Alliance** | https://e.cloudsecurityalliance.org/cybermonday2025 | 50% off the bundle | Cert Bundle **Cyber Monday Only Start: Dec. 1, 12 AM PST | End: Dec. 2, 12 AM PST** | 
 | **Cisco Professional Training** | https://learningnetworkstore.cisco.com/ | Select courses 40% off  Additional door busters Cyber Monday 8:00AM PT - 12:00PM PT | Cisco Cert training **11/24/2025 8:00AM PT - 12/2/2028 8:00AM PT** |
 | **Maldev Academy** | https://maldevacademy.com/ | 25% off with code ``BLKFRIDAY`` | Offensive and defensive courses |
+| ** Security Blue Team** | https://www.securityblue.team/black-friday-2025 | 20% off BTL1, 50% off BTL2 and CSOM, See site for other discounts | Defensive focused **Ends 12/3/2025** |
 
 ## Practical Labs  
 
