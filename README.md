@@ -46,7 +46,7 @@ If you have additional deals you would like to add, see the instructions at the 
 | Organization | URL | Discount Details | Notes |
 | --- | --- | --- | --- |
 | **AntiSyphon Pay Forward What You Can Training** 💖 | https://www.antisyphontraining.com/pay-forward-what-you-can/list/ | Not really a Black Friday Sale becasue this is more of an always thing  | This class starts 12/2 - Highly Recommended: https://www.antisyphontraining.com/product/getting-started-in-security-with-bhis-and-mitre-attck-with-john-strand/ |
-| **Blue Cape Security** 💖 | https://bluecapesecurity.com/#training | - 25% off ``FALL25`` | Defender focus |  
+| **Blue Cape Security** 💖 | https://bluecapesecurity.com/#training | - 25% off ``BLACKFRIDAY25`` | Defender focus **ENDS 12/3/2025 at Midnight PST** |  
 | **LetsDefend** 💖 | https://letsdefend.io/ | 50% off annual subscription ``BLCKFRDY``  35% off first month ``BLCKFRDY35`` | Defender focus |   
 | **Level Effect** | https://training.leveleffect.com/catalog | Up to 45% off courses and bundles | Defender focus | 
 | **DNS for Developers** | https://dnsfordevelopers.com/ | 66% off (Normally $149, on sale for $49) | Dev focus |
@@ -64,6 +64,7 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Cisco Professional Training** | https://learningnetworkstore.cisco.com/ | Select courses 40% off  Additional door busters Cyber Monday 8:00AM PT - 12:00PM PT | Cisco Cert training **11/24/2025 8:00AM PT - 12/2/2028 8:00AM PT** |
 | **Maldev Academy** | https://maldevacademy.com/ | 25% off with code ``BLKFRIDAY`` | Offensive and defensive courses |
 | ** Security Blue Team** | https://www.securityblue.team/black-friday-2025 | 20% off BTL1, 50% off BTL2 and CSOM, See site for other discounts | Defensive focused **Ends 12/3/2025** |
+| **Codecademy** | https://try.codecademy.com/discounts | 60% off subscriptions ``CYBER2025`` | **Ends 11/28/2025** | 
 
 ## Practical Labs  
 
@@ -88,6 +89,7 @@ If you have additional deals you would like to add, see the instructions at the 
 
 | Organization | URL | Discount Details | Notes |
 | --- | --- | --- | --- |
+| Taggarts The Homelab Almanac: TTI Edition ✨ | https://taggartinstitute.org/p/the-homelab-almanac | 50% off ``HOMELABIN2026`` |  |
 ## Wearables
 
 | Organization | URL | Discount Details | Notes |
