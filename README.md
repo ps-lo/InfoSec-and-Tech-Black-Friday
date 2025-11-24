@@ -1,5 +1,5 @@
 
-And as of 11/23 ~@11 AM, it looks like https://github.com/0x90n/InfoSec-Black-Friday has been updated. Go there, I promise it is probably better. 
+And as of 11/23 ~@11 AM, it looks like https://github.com/0x90n/InfoSec-Black-Friday has been updated. Go there, I promise it is probably better. If you are looking for homelab gear, I have added a couple of options that won't be on the original list due to it's scope.
 
 # InfoSec Black Friday Deals 2025 Edition
 I went looking for the list I normally use and it doesn't seem to be updated so I'm taking a crack at putting an Infoec Black Friday List together. Something a little different here is I've also added in some homelab related hardware and other "non security" tech. No amazon links, no VPNs, No junk. I've reviewed these offers to make sure they are active. I'll try to make sure the deals aren't garbage and de-shittify the list where possible too. 
