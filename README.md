@@ -65,7 +65,8 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Maldev Academy** | https://maldevacademy.com/ | 25% off with code ``BLKFRIDAY`` | Offensive and defensive courses |
 | ** Security Blue Team** | https://www.securityblue.team/black-friday-2025 | 20% off BTL1, 50% off BTL2 and CSOM, See site for other discounts | Defensive focused **Ends 12/3/2025** |
 | **Codecademy** | https://try.codecademy.com/discounts | 60% off subscriptions ``CYBER2025`` | **Ends 11/28/2025** | 
-
+| **Digital Defense Institute** 💖 | https://ddi.sh/thvr-bf-2025 | 40% off ``blackfriday2025`` | **ENDS 11/28/2025** |
+  
 ## Practical Labs  
 
 | Organization | URL | Discount Details | Notes |
