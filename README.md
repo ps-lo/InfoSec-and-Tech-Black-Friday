@@ -80,7 +80,8 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Minis Forum** ✨ | https://store.minisforum.com/pages/minisforum-black-friday | discount varies, see site | Great platforms for compact homelabs **Ends 12/2/2025** |
 | **Geekom** | https://www.geekompc.com/black-friday/ | Discount varies, see site | great platforms for compact homelabs **Ends 12/2/2025** | 
 | **Back Market** | https://www.backmarket.com/en-us/e/black-friday | Discount varies, see site | Refurb tech marketplace |
-| 
+| **DeskPi** ✨ | https://deskpi.com/ | Up to 10% off | 10" Home lab racks and more **11/26/2025 - 11/30/2025** |
+| **Unifi** ✨ | https://store.ui.com/us/en/tags/black-friday | Discount varies | **Ends 12/1/2025** |
 
 ## Books
 
