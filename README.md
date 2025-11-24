@@ -109,6 +109,3 @@ Submit a PR  and add yourself to the credits
 Add yourself to the end of the list here, Thanks!
 
 ## Thanks for checking this out
-If you want to buy me a Celcius or a coffee, or whatever:  
-**at least 50% of this will be forwarded to the Rural Technology Fund**  
-https://buymeacoffee.com/ps_lo  
