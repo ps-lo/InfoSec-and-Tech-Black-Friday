@@ -40,6 +40,7 @@ If you have additional deals you would like to add, see the instructions at the 
 | **PortDroid** | https://www.portdroid.net/black-friday-2025/ | 50% off, code ``CYBER_2025`` | |
 | **ThreatZone** | https://app.threat.zone/ | 35% Discount on Plans ``HAPPYHOLIDAYS35`` | **ENDS 12/31/2025** |
 | **Pulsedive** | https://pulsedive.com/purchase/pro | 35% off annual or monthly plan for 12 months ``BLACKFRIDAY25`` | **ENDS 12/1/2025** |
+| **AdverseMonitor** | https://adversemonitor.com/ | Annual Detection Plan at 75% OFF ``BLACKFRIDAY2025`` | **ENDS 12/31/2025** |
  
 ## Courses & Training
 
