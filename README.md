@@ -67,8 +67,10 @@ If you have additional deals you would like to add, see the instructions at the 
 | **Security Blue Team** | https://www.securityblue.team/black-friday-2025 | 20% off BTL1, 50% off BTL2 and CSOM, See site for other discounts | Defensive focused **Ends 12/3/2025** |
 | **Codecademy** | https://try.codecademy.com/discounts | 60% off subscriptions ``CYBER2025`` | **Ends 11/28/2025** | 
 | **Digital Defense Institute** 💖 | https://ddi.sh/thvr-bf-2025 | 40% off ``blackfriday2025`` | **ENDS 11/28/2025** |
-| **Pluralsight | https://www.pluralsight.com/individuals/pricing | 60& off individual subscriptions ``BLACKFRIDAY60`` | |
-
+| **Pluralsight** | https://www.pluralsight.com/individuals/pricing | 60% off individual subscriptions ``BLACKFRIDAY60`` | |
+| **RedSiege** | https://training.redsiege.com/bundles/a3c39973-99da-4e7e-aaad-2c3b182e55e4 | Special pricing for an On Demand bundle (looks like 50% orr regular single course pricing) or single courses | |
+| **Linux Foundation** | training.linuxfoundation.org | Various courss and certs are discounted up to 65%, see site for details | **ENDS 12/9/2025** |
+| **Applied Network Defense** | https://networkdefense.io | 25% discount on all courses ``ALLYALL`` | **ENDS 12/2/2025** |
   
 ## Practical Labs  
 
