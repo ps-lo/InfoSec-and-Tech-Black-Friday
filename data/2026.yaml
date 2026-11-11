@@ -80,7 +80,7 @@ sections:
         ends: 2026-12-06
         focus: "Networking / Security"
         notes: "SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs"
-        via: @erh-git
+        via: "@erh-git"
       - vendor: OffSec
         url: https://portal.offsec.com/checkout/?view=learn-one
         deal: $550 off Learn One Courses
