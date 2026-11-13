@@ -53,6 +53,13 @@ sections:
     title: Courses & Training
     emoji: 🎓
     deals: 
+      - vendor: AppSec.training
+        url: https://appsec.training
+        deal: 50% off
+        code: "blackfriday"
+        ends: 2026-12-31
+        focus: Dev
+        via: "@GHULI3V"
       - vendor: TrainSec
         url: https://trainsec.net/cybersecurity-courses-black-friday-2026/
         deal: 40% off individual courses and plans
