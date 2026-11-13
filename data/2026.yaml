@@ -48,6 +48,43 @@ sections:
         code: "BLACKFRIDAY"
         ends: 2026-12-31
         focus: Red
+      - vendor: OffSeq Threat Radar
+        url: https://radar.offseq.com/pricing
+        deal: 50% off the first month or the whole first year of any subscription plan
+        ends: 2026-12-01
+        focus: Blue
+        notes: Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day).
+        via: "@thistehneisen"
+      - vendor: OffSeq Breach
+        url: https://breach.offseq.com/#pricing
+        deal: 50% off the first billing period of any paid plan
+        code: "BLACK"
+        ends: 2026-12-02
+        focus: Blue
+        notes: Leaked-credential monitoring for your domains across breach datasets, forums and Telegram. Free start.
+        via: "@thistehneisen"
+      - vendor: OffSeq Mirage
+        url: https://mirage.offseq.com/pricing
+        deal: 50% off the first 3 months of any plan
+        code: "BFCM2026"
+        ends: 2026-11-30
+        focus: Blue
+        notes: Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed.
+        via: "@thistehneisen"
+      - vendor: Guard by OffSeq
+        url: https://guard.report/monitoring
+        deal: 50% off the full report and the first month of monitoring
+        ends: 2026-12-01
+        focus: Blue
+        notes: Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes.
+        via: "@thistehneisen"
+      - vendor: OffSeq Pulse
+        url: https://pulse.offseq.com/pricing
+        deal: 50% off the first year or first month for new customers
+        ends: 2026-12-02
+        focus: Blue
+        notes: EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. First 2 devices free.
+        via: "@thistehneisen"
 
   - id: courses
     title: Courses & Training
