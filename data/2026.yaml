@@ -206,7 +206,13 @@ sections:
         code: 
         ends: 2026-11-30
         focus: Blue
-        taken: true  
+        taken: true
+      - vendor: TheXero Training Academy
+        url: https://training.thexero.co.uk/
+        deal: 67% off Wireless Operator course
+        code: 
+        ends: 2026-12-01
+        focus: Red   
                
   - id: labs
     title: Practical Labs
