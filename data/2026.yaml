@@ -279,7 +279,7 @@ sections:
         url: https://hak5.org/pages/hacked-november
         deal: Discount varies, see site
         ends: 2026-11-30
-        note: Pentest and red team gadgets.
+        notes: Pentest and red team gadgets.
         used: true
       - vendor: UniFi
         url: https://store.ui.com/us/en/tags/black-friday
