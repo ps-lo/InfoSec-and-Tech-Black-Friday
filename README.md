@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**35 active deals** of 35 listed
+**36 active deals** of 36 listed
 
-_Last updated: Nov 13, 2026 04:15 PST_
+_Last updated: Nov 13, 2026 17:00 PST_
 
 ## Table of contents
 
@@ -56,6 +56,7 @@ _Last updated: Nov 13, 2026 04:15 PST_
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red |  |
+| [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
 | [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue |  |
 | [Antisyphon Training](https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/) 💖 | Not a black Friday Sale, but pay what you can on select courses year round | — | Ongoing | Red/Blue/AI |  |
 
@@ -117,6 +118,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 ## Credits
 
 - [@techkar1m](https://github.com/techkar1m)
+- [@GHULI3V](https://github.com/GHULI3V)
 - [@erh-git](https://github.com/erh-git)
 - [@vanani11](https://github.com/vanani11)
 
