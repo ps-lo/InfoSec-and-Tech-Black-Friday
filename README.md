@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**42 active deals** of 42 listed
+**44 active deals** of 44 listed
 
-_Last updated: Nov 13, 2026 17:16 PST_
+_Last updated: Nov 14, 2026 03:09 PST_
 
 ## Table of contents
 
@@ -53,6 +53,7 @@ _Last updated: Nov 13, 2026 17:16 PST_
 | [Hack Tricks Training](https://hacktricks-training.com/) | 20% of courses, 15% off labs & exams, 10% off bundles | — | Nov 30 | Red |  |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue |  |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue |  |
+| [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI |  |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
@@ -79,6 +80,7 @@ _Last updated: Nov 13, 2026 17:16 PST_
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
 | [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 |  |
+| [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 | Great compact homelab boxes |
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 |  |
 | [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Will update when available | — | Nov 19 – Nov 30 |  |
@@ -127,6 +129,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@thistehneisen](https://github.com/thistehneisen)
 - [@GHULI3V](https://github.com/GHULI3V)
 - [@erh-git](https://github.com/erh-git)
+- [@Kaicastledine](https://github.com/Kaicastledine)
 - [@vanani11](https://github.com/vanani11)
 
 ## Past years
