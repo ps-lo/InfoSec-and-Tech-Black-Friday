@@ -213,6 +213,14 @@ sections:
         code: 
         ends: 2026-12-01
         focus: Red   
+      - vendor: OnlySecurity
+        url: https://onlysecurity.com/black-friday/
+        deal: 15% off courses not already on sale, the first Plus or Max payment and the All Access pass
+        starts: 2026-11-23
+        ends: 2026-11-30
+        focus: Red / Blue
+        notes: Applied automatically at checkout, no code
+        via: "@Kaicastledine"
                
   - id: labs
     title: Practical Labs
@@ -276,6 +284,13 @@ sections:
         starts: 2026-11-19
         ends: 2026-11-30
         used: true  
+      - vendor: KSEC Labs (UK) and KSEC EU
+        url: https://labs.ksec.co.uk/black-friday-sale/
+        deal: Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits
+        starts: 2026-11-23
+        ends: 2026-11-30
+        notes: "EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov"
+        via: "@Kaicastledine"
         
   - id: maker
     title: 3D Printing & Maker
