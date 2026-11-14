@@ -118,6 +118,7 @@ sections:
         code: "BFF25"
         ends: 2026-11-30
         focus: Red/Blue
+        notes: Hands-on cybersecurity training from practitioners for practitioners.
         taken: false
       - vendor: Blu Raven
         url: https://academy.bluraven.io/courses
@@ -166,6 +167,7 @@ sections:
         starts: 2026-11-27
         ends: 2026-12-18
         focus: Red
+        notes: Offensive focused training and certifications
         taken: true
       - vendor: Hack Tricks Training
         url: https://hacktricks-training.com/
@@ -212,6 +214,7 @@ sections:
         code: 
         ends: 2026-11-30
         focus: Blue
+        noteS: Incident response tranining and certification.
         taken: true
       - vendor: TheXero Training Academy
         url: https://training.thexero.co.uk/
