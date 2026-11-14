@@ -103,12 +103,14 @@ sections:
         code: "BF2026"
         ends: 2026-11-30
         focus: Security / Dev
+        notes: Windows internals, kernel and low-level security courses.
         taken: true
       - vendor: Practical DevSecOps
         url: https://www.practical-devsecops.com/black-friday-sale-2026/
         deal: 15% off certs, up to $600 off bundles
         ends: 2026-11-30
-        focus: Security / AI 
+        focus: Security / AI
+        notes: Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are.
         taken: true
       - vendor: Just Hacking Training
         url: https://www.justhacking.com/types/courses-and-paths
@@ -123,6 +125,7 @@ sections:
         code: 
         ends: 2026-11-30
         focus: Blue
+        notes: Detection engineering and threat hunting courses, KQL-heavy.
         taken: false
       - vendor: Antisyphon Training 
         url: https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/
@@ -130,6 +133,7 @@ sections:
         code: 
         evergreen: true
         focus: Red/Blue/AI
+        notes: Live courses from the Black Hills InfoSec and others. Pay what you can on select classes, year-round.
         taken: true
       - vendor: "Practical Networking"
         url: https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS
@@ -145,6 +149,7 @@ sections:
         code: 
         ends: 2027-01-04
         focus: Red/Blue
+        notes: Learn One is a year of access to one course plus exam attempts.
         taken: true
       - vendor: MalDev Academy
         url: https://maldevacademy.com/
@@ -152,6 +157,7 @@ sections:
         code: "BLKFRIDAY25"
         ends: 2026-11-30
         focus: Red/Blue
+        notes: Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting.
         taken: true
       - vendor: White Knight Labs
         url: https://whiteknightlabs.com/
@@ -245,6 +251,7 @@ sections:
         deal: Discounted Lifetime and Annual Subscriptions
         ends: 2026-11-30
         focus: General
+        notes: Browser-based playgrounds for Linux, containers, Kubernetes and networking.
         taken: true
 
   - id: hardware
@@ -272,11 +279,13 @@ sections:
         url: https://hak5.org/pages/hacked-november
         deal: Discount varies, see site
         ends: 2026-11-30
+        note: Pentest and red team gadgets.
         used: true
       - vendor: UniFi
         url: https://store.ui.com/us/en/tags/black-friday
         deal: Discount varies, see site
         ends: 2026-11-30
+        notes: Networking gear that’s popular for homelabs and SMB.
         used: true
       - vendor: Yubico
         url: https://www.yubico.com/us/store/2026/black-friday-sale/
@@ -300,10 +309,12 @@ sections:
         url: https://store.creality.com/pages/sale
         deal: Discount varies daily, see site
         ends: 2026-11-29
+        notes: 3D printers and accessories.
       - vendor: RobotShop
         url: https://www.robotshop.com/collections/on-sale
         deal: Discount varies daily, see site
         ends: 2026-11-29
+        notes: Robotics and electronics parts, kits and tools.
         used: true
       - vendor: Arduino
         url: https://store-usa.arduino.cc/collections/black-friday
@@ -324,8 +335,9 @@ sections:
       - vendor: The CloudSec Engineer
         url: https://engineer.cloudsecbooks.com/
         deal: 20% off
-        code: CYBERNOVEMBER26
+        code: "CYBERNOVEMBER26"
         ends: 2026-11-30
+        notes: Book on cloud security engineering.
     
 
   - id: wearables
@@ -334,8 +346,8 @@ sections:
     deals:
       - vendor: Geeksoutfit
         url: https://www.geeksoutfit.com/
-        deal: Early bird Black Friday 35%
-        code: BFEM35
+        deal: multiple codes 10% - 30% off + free gifts 
+        code: "BF10", "BF20", "BF30"
         ends: 2026-11-29
 
   - id: games
