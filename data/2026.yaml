@@ -347,7 +347,7 @@ sections:
       - vendor: Geeksoutfit
         url: https://www.geeksoutfit.com/
         deal: multiple codes 10% - 30% off + free gifts 
-        code: "BF10", "BF20", "BF30"
+        code: ["BF10", "BF20", "BF30"]
         ends: 2026-11-29
 
   - id: games
