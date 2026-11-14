@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **44 active deals** of 44 listed
 
-_Last updated: Nov 14, 2026 03:09 PST_
+_Last updated: Nov 14, 2026 07:09 PST_
 
 ## Table of contents
 
@@ -47,31 +47,31 @@ _Last updated: Nov 14, 2026 03:09 PST_
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
-| [Blu Raven](https://academy.bluraven.io/courses) | Up to 40% off Courses | — | Nov 30 | Blue |  |
+| [Blu Raven](https://academy.bluraven.io/courses) | Up to 40% off Courses | — | Nov 30 | Blue | Detection engineering and threat hunting courses, KQL-heavy. |
 | [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) 💖 | $700 off HERO bundle | — | Nov 30 | Blue |  |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Certification courses $9+, bundles $29+ (up to 90% off) | — | Nov 30 | Red / Blue / AI / Cloud | Bundles include Red Team, Blue Team, AI Security, Cloud ($29–$149). More Lab offers on [CWL Infinity](https://infinity.cyberwarfare.live/). |
 | [Hack Tricks Training](https://hacktricks-training.com/) | 20% of courses, 15% off labs & exams, 10% off bundles | — | Nov 30 | Red |  |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue |  |
-| [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue |  |
+| [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
-| [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI |  |
+| [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
-| [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev |  |
+| [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red |  |
 | [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
-| [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue |  |
-| [Antisyphon Training](https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/) 💖 | Not a black Friday Sale, but pay what you can on select courses year round | — | Ongoing | Red/Blue/AI |  |
+| [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue | Learn One is a year of access to one course plus exam attempts. |
+| [Antisyphon Training](https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/) 💖 | Not a black Friday Sale, but pay what you can on select courses year round | — | Ongoing | Red/Blue/AI | Live courses from the Black Hills InfoSec and others. Pay what you can on select classes, year-round. |
 
 ## Practical Labs
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
-| [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General |  |
+| [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | 30% off one-year membership | `2026BF30` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | 50% off two-year membership | `2026BF50` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 
@@ -79,34 +79,34 @@ _Last updated: Nov 14, 2026 03:09 PST_
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
-| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 |  |
+| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 | Great compact homelab boxes |
-| [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 |  |
+| [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
 | [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Will update when available | — | Nov 19 – Nov 30 |  |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
 | [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
 
 ## 3D Printing & Maker
 
-| Vendor | Deal | Code | Dates |
-|---|---|---|---|
-| [Creality](https://store.creality.com/pages/sale) | Discount varies daily, see site | — | Nov 29 |
-| [RobotShop](https://www.robotshop.com/collections/on-sale) ✨ | Discount varies daily, see site | — | Nov 29 |
-| [Arduino](https://store-usa.arduino.cc/collections/black-friday) ✨ | Discount varies daily, see site | — | Nov 30 |
-| [SparkFun](https://www.sparkfun.com/november_deals) ✨ | Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off | `BFCM2026` | Nov 30 |
+| Vendor | Deal | Code | Dates | Notes |
+|---|---|---|---|---|
+| [Creality](https://store.creality.com/pages/sale) | Discount varies daily, see site | — | Nov 29 | 3D printers and accessories. |
+| [RobotShop](https://www.robotshop.com/collections/on-sale) ✨ | Discount varies daily, see site | — | Nov 29 | Robotics and electronics parts, kits and tools. |
+| [Arduino](https://store-usa.arduino.cc/collections/black-friday) ✨ | Discount varies daily, see site | — | Nov 30 |  |
+| [SparkFun](https://www.sparkfun.com/november_deals) ✨ | Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off | `BFCM2026` | Nov 30 |  |
 
 ## Books
 
-| Vendor | Deal | Code | Dates |
-|---|---|---|---|
-| [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | 20% off | `CYBERNOVEMBER26` | Nov 30 |
+| Vendor | Deal | Code | Dates | Notes |
+|---|---|---|---|---|
+| [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | 20% off | `CYBERNOVEMBER26` | Nov 30 | Book on cloud security engineering. |
 
 ## Wearables
 
 | Vendor | Deal | Code | Dates |
 |---|---|---|---|
-| [Geeksoutfit](https://www.geeksoutfit.com/) | Early bird Black Friday 35% | `BFEM35` | Nov 29 |
+| [Geeksoutfit](https://www.geeksoutfit.com/) | multiple codes 10% - 30% off + free gifts | `BF10`<br>`BF20`<br>`BF30` | Nov 29 |
 
 ## Games
 
