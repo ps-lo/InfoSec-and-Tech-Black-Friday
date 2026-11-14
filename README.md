@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **44 active deals** of 44 listed
 
-_Last updated: Nov 14, 2026 07:09 PST_
+_Last updated: Nov 14, 2026 07:28 PST_
 
 ## Table of contents
 
@@ -48,10 +48,10 @@ _Last updated: Nov 14, 2026 07:09 PST_
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [Blu Raven](https://academy.bluraven.io/courses) | Up to 40% off Courses | — | Nov 30 | Blue | Detection engineering and threat hunting courses, KQL-heavy. |
-| [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) 💖 | $700 off HERO bundle | — | Nov 30 | Blue |  |
+| [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) 💖 | $700 off HERO bundle | — | Nov 30 | Blue | Incident response tranining and certification. |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Certification courses $9+, bundles $29+ (up to 90% off) | — | Nov 30 | Red / Blue / AI / Cloud | Bundles include Red Team, Blue Team, AI Security, Cloud ($29–$149). More Lab offers on [CWL Infinity](https://infinity.cyberwarfare.live/). |
 | [Hack Tricks Training](https://hacktricks-training.com/) | 20% of courses, 15% off labs & exams, 10% off bundles | — | Nov 30 | Red |  |
-| [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue |  |
+| [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue | Hands-on cybersecurity training from practitioners for practitioners. |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
@@ -62,7 +62,7 @@ _Last updated: Nov 14, 2026 07:09 PST_
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
-| [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red |  |
+| [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red | Offensive focused training and certifications |
 | [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
 | [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue | Learn One is a year of access to one course plus exam attempts. |
 | [Antisyphon Training](https://www.antisyphontraining.com/events/category/pay-forward-what-you-can/list/) 💖 | Not a black Friday Sale, but pay what you can on select courses year round | — | Ongoing | Red/Blue/AI | Live courses from the Black Hills InfoSec and others. Pay what you can on select classes, year-round. |
