@@ -214,7 +214,7 @@ sections:
         code: 
         ends: 2026-11-30
         focus: Blue
-        noteS: Incident response tranining and certification.
+        notes: Incident response tranining and certification.
         taken: true
       - vendor: TheXero Training Academy
         url: https://training.thexero.co.uk/
