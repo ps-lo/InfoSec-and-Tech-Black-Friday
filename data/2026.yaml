@@ -34,6 +34,30 @@ sections:
     title: Tools
     emoji: 🔨
     deals:
+      - vendor: ExposureDrift
+        url: https://exposuredrift.com
+        deal: "Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder)"
+        focus: Blue
+        notes: Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now.
+        ends: 2026-12-30
+        via: "@rxrsec"
+      - vendor: Akev
+        url: https://akev.dev/pricing
+        deal: 30% off the Pro licence (one-time, $49 → $34.30)
+        code: "BLACKFRIDAY"
+        ends: 2026-12-06
+        ends_note: "23:59 UTC"
+        focus: Dev
+        notes: Open-source HTTP(S) debugging proxy for intercepting, mocking and rewriting traffic from browsers, apps, phones and containers.
+        via: "@akevdev"
+      - vendor: AppSecD
+        url: https://dedsecops.com/pricing
+        deal: "30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card"
+        starts: 2026-11-17
+        ends: 2026-12-31
+        focus: Blue
+        notes: "All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code."
+        via: "@ssecurityy"
       - vendor: Scanify
         url: https://scanify.to/pricing?code=BFPRO
         deal: 50% off Pro for 3 months ($10/mo instead of $20)
@@ -87,24 +111,91 @@ sections:
         via: "@thistehneisen"
       - vendor: PortDroid
         url: https://portdroid.net/black-friday-2026/
-        deal: 50% off ProDroid Pro 
+        deal: 50% off PortDroid Pro 
         code: "CYBER_2026"
         ends: 2026-12-04
         focus: general
         used: true
         notes: Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website.
       - vendor: Exploit Pack
-        url: https://www.exploitpack.com/
+        url: https://www.exploitpack.com/products/exploit-pack
         deal: ~20% off licenses and bundles.
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Prices in EUR.
+        via: "@epgh123"
+      - vendor: Exploit Pack - Control Pack
+        url: https://www.exploitpack.com/products/control-pack
+        deal: 20% off (€1,200 → €960) plus Lifetime licence
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. Prices in EUR.
+        via: "@epgh123"
+      - vendor: Exploit Pack - Kernel Pack
+        url: https://www.exploitpack.com/products/kernel-pack
+        deal: 20% off (€1,200 → €960) plus Lifetime licence
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. Prices in EUR.
+        via: "@epgh123"
+      - vendor: Exploit Pack - Ultimate Pack + AI
+        url: https://www.exploitpack.com/products/ultimate-pack-discount
+        deal: Black Friday bundle €4,000
         code: 
         ends: 2026-11-30
         focus: Red
-        notes: Exploit development, C2 and kernel tooling for red teams. Prices in EUR.
+        notes: All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI.
+        via: "@epgh123"  
+      - vendor: AdverseMonitor
+        url: https://adversemonitor.com/black-friday
+        deal: 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year)
+        code: 
+        ends: 2026-11-30
+        ends_note: 6:59 PM ET (23:59:59 UTC)
+        focus: Blue
+        notes: Threat intelligence platform aimed at MSSPs. Discount applied automatically at checkout, no code. 14-day free trial, no card required.
+      - vendor: Noviscan
+        url: https://secufor.net/black-week/
+        deal: "30-day free trial of Noviscan® Premium, then €9.90 a month"
+        code: "BLACKFRIDAY26"
+        starts: 2026-11-23
+        ends: 2026-11-30
+        focus: Blue
+        notes: "Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing."
+        via: "@ludovic767"
+      - vendor: Burp Bounty Pro
+        url: https://bountysecurity.ai/products/burp-bounty
+        deal: 40% off the first year of the yearly plan
+        code: "BLACKFRIDAY26"
+        ends: 2026-12-03
+        focus: Red
+        notes: Burp Suite extension that turns your methodology into automated vulnerability checks, with a visual profile editor, Smart Scan rules, multi-step scans and an optional AI Scanner. Requires Burp Suite Professional. Includes Burp Bounty Server.
+        via: "@wagiro"
+      - vendor: Burp Bounty Server
+        url: https://bountysecurity.ai/pages/burp-bounty-server
+        deal: 40% off the first year of the yearly plan
+        code: "BLACKFRIDAY26"
+        ends: 2026-12-03
+        focus: Red
+        notes: Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.
+        via: "@wagiro"
+
         
   - id: courses
     title: Courses & Training
     emoji: 🎓
     deals: 
+      - vendor: Wireshark Labs
+        url: https://wiresharklabs.org/
+        deal: "Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99"
+        code: "PACKETFRIDAY"
+        ends: 2026-12-01
+        ends_note: until Dec 2, 08:00 UTC
+        focus: Networking
+        via: "@oripka"
       - vendor: AppSec.training
         url: https://appsec.training
         deal: 50% off
@@ -135,6 +226,13 @@ sections:
         focus: Red/Blue
         notes: Hands-on cybersecurity training from practitioners for practitioners.
         taken: false
+      - vendor: Red Team LLC
+        url: https://redteam.vip
+        deal: "Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799"
+        ends: 2026-11-30
+        focus: Red
+        notes: Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1.
+        via: "@DavidProbinsky"
       - vendor: Blu Raven
         url: https://academy.bluraven.io/courses
         deal: Up to 40% off Courses
@@ -184,53 +282,53 @@ sections:
         focus: Red
         notes: Offensive focused training and certifications
         taken: true
-      - vendor: Hack Tricks Training
+      - vendor: HackTricks Training
         url: https://hacktricks-training.com/
-        deal: 20% of courses, 15% off labs & exams, 10% off bundles
+        deal: 20% off courses, 15% off labs & exams, 10% off bundles
         code: 
         ends: 2026-11-30
         focus: Red
       - vendor: VantagePoint
         url: https://vantagepoint.enciphers.com/
-        deal: 70% of hacking labs and certifications
+        deal: 70% off hacking labs and certifications
         code: 
         ends: 2026-11-30
         focus: Red  
       - vendor: RedTeamLeaders
         url: https://courses.redteamleaders.com/catalog
-        deal: 50% of hacking labs and certifications
+        deal: 50% off hacking labs and certifications
         code: "BLACKFRIDAY50"
         ends: 2026-11-30
         focus: Red
         notes: Pricing in Brazilian Real, verified discounts. DYOR. 
-      - vendor: RedTeamLeaders
-        url: https://courses.redteamleaders.com
-        deal: 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA
-        code: "NEXTSTEP100"
-        ends: 2026-11-30
-        focus: Red
-        notes: Pricing in Brazilian Real, verified discounts. DYOR.
       - vendor: pwn.guide
         url: https://pwn.guide
         deal: 20% off plans
         code: "BLKFRI20"
         ends: 2026-12-05
         focus: Red
-      - vendor: CyberWarFare Labs
-        url: https://cyberwarfare.live/
-        deal: Certification courses $9+, bundles $29+ (up to 90% off)
-        code:
-        ends: 2026-11-30
-        focus: Red / Blue / AI / Cloud
-        notes: Bundles include Red Team, Blue Team, AI Security, Cloud ($29–$149). More Lab offers on [CWL Infinity](https://infinity.cyberwarfare.live/).
       - vendor: Blue Cape Security
         url: https://bluecapesecurity.com/training-tracks/
         deal: $700 off HERO bundle
         code: 
         ends: 2026-11-30
         focus: Blue
-        notes: Incident response tranining and certification.
+        notes: Incident response training and certification.
         taken: true
+      - vendor: The SecOps Group (PentestingExams)
+        url: https://pentestingexams.com/
+        deal: 90% off all pentesting certification exams
+        code: BF-90
+        ends: 2026-11-30
+        focus: Red
+        notes: Exam vouchers only, not training. Discount is big enough to DYOR on the exam terms.
+      - vendor: Modern Security
+        url: https://www.modernsecurity.io/
+        deal: 20% off the Certified AI Security Expert (MSec-CAIS) certification
+        code: msec-blackfriday20
+        ends: 2026-11-30  
+        focus: Security / AI
+        notes: Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout.  
       - vendor: TheXero Training Academy
         url: https://training.thexero.co.uk/
         deal: 67% off Wireless Operator course
@@ -245,6 +343,45 @@ sections:
         focus: Red / Blue
         notes: Applied automatically at checkout, no code
         via: "@Kaicastledine"
+      - vendor: Hexordia
+        url: https://learn.hexordia.com/s/store
+        deal: 35% off Hexordia classes and class vouchers
+        code: "26BF35"
+        starts: 2026-11-23
+        ends: 2026-12-07
+        ends_note: 11:59 PM ET
+        focus: Blue
+        notes: Applies to on-demand and virtual live classes and to class vouchers.
+      - vendor: TCM Security
+        url: https://tcm-sec.com/
+        deal: 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training 
+        ends: 2026-11-30
+        focus: Red / Blue
+        notes: Applied automatically at checkout, no code
+      - vendor: PwnedLabs
+        url: https://pwnedlabs.io/
+        deal: 25% off boot camps and subscriptions
+        code: "BLACKFRIDAY25"
+        ends: 2026-11-30
+        focus: red
+        taken: true
+        notes: Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. 
+      - vendor: CyberWarFare Labs
+        url: https://cyberwarfare.live/
+        deal: "Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)"
+        code: "INFINITY49 (Yearly), INFINITY5 (Monthly)"
+        ends: 2026-12-01
+        focus: "Red Team, Blue Team, Cloud Security, AI Security"
+        via: "@RedTeamOperations"
+      - vendor: SecurityPaths Academy
+        url: https://academy.securitypaths.com/courses
+        deal: 25% off Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP)
+        code: "blackfriday26"
+        starts: 2026-11-21
+        ends: 2026-11-30
+        focus: Red
+        notes: Formerly WiFi Challenge Academy. Wi-Fi pentesting and recon courses with labs, exam and certification. Code auto-applied at checkout.
+        via: "@six2dez"
                
   - id: labs
     title: Practical Labs
@@ -271,6 +408,14 @@ sections:
         focus: General
         notes: Browser-based playgrounds for Linux, containers, Kubernetes and networking.
         taken: true
+      - vendor: GenAI Security Lab
+        url: https://genaisecuritylab.com/pricing
+        deal: 40% off the yearly plan and the 4-Month Pass
+        code: "BLACKFRIDAY40"
+        ends: 2026-11-30
+        ends_note: "23:59 UTC"
+        focus: Security / AI
+        notes: 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.
 
   - id: hardware
     title: Hardware
@@ -307,7 +452,7 @@ sections:
         used: true
       - vendor: Yubico
         url: https://www.yubico.com/us/store/2026/black-friday-sale/
-        deal: Will update when available
+        deal: Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026.
         starts: 2026-11-19
         ends: 2026-11-30
         used: true  
@@ -318,6 +463,19 @@ sections:
         ends: 2026-11-30
         notes: "EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov"
         via: "@Kaicastledine"
+      - vendor: GL.iNet
+        url: https://www.gl-inet.com/en-us/pages/early-black-friday
+        deal: Up to 20% off routers, Comet remote KVMs and travel routers
+        code: 
+        starts: 2026-11-19
+        ends: 2026-11-30
+        notes: OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware.
+      - vendor: UGREEN NAS
+        url: https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals
+        deal: Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99)
+        code:
+        ends: 2026-11-30
+        notes: Bundles live now; main sale starts Nov 19. 30-day price guarantee.  
         
   - id: maker
     title: 3D Printing & Maker
@@ -344,7 +502,30 @@ sections:
         deal: Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off
         code: BFCM2026
         ends: 2026-11-30
-        used: true  
+        used: true
+      - vendor: Bambu Lab
+        url: https://us.store.bambulab.com/
+        deal: Black Friday pricing on all printers, no code needed
+        ends: 2026-12-01
+        ends_note: 2:00 AM ET
+        notes: 30-day price protection on eligible items, so buying early is low risk.
+      - vendor: Prusa
+        url: https://www.prusa3d.com/p/black-friday-2026/
+        deal: Up to $960 in free gifts with printers, up to 40% off Prusament
+        ends: 2026-11-30
+        ends_note: 11:59 PM PST
+        notes: Extras rather than price cuts. Free shipping over $200.
+      - vendor: Elegoo
+        url: https://us.elegoo.com/pages/elegoo-black-friday
+        deal: Centauri Carbon 2 Combo $369, Saturn 4 Ultra 16K $399, up to 54% off accessories
+        ends: 2026-12-01
+        ends_note: 3 AM EST
+        notes: US prices match Elegoo's Halloween sale, so not a new low.
+      - vendor: Seeed Studio
+        url: https://www.seeedstudio.com/
+        deal: $20 off every $200 on 500+ selected products
+        ends: 2026-11-30
+        notes: XIAO boards, Meshtastic/LoRa, Home Assistant kits.  
         
   - id: books
     title: Books
@@ -367,12 +548,32 @@ sections:
         deal: multiple codes 10% - 30% off + free gifts 
         code: ["BF10", "BF20", "BF30"]
         ends: 2026-11-29
+      - vendor: Allow Some Deny All
+        url: https://shop.allowsomedenyall.com
+        deal: "10% off orders of $20–$25; 20% off orders over $25"
+        ends: 2026-12-31
+        notes: "Discounts apply automatically at checkout. Free standard shipping on orders over $25; $2 otherwise. Cybersecurity, hacker culture, wardriving, privacy, and biohacking stickers."
+  
 
   - id: games
     title: Games
     emoji: 💾
-    deals: []
-
+    deals: 
+      - vendor: The Firewall Trail
+        url: https://pslorenz.github.io/firewall-trail/
+        deal: Free, always
+        evergreen: true
+        focus: Blue
+        notes: Oregon Trail–style browser game. Survive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues.  
+      - vendor: Steam (hacking & programming games)
+        url: https://store.steampowered.com/
+        deal: Black Friday sale — watch Hacknet (low $1.49), EXAPUNKS, Zachtronics Puzzle Pack
+        code:
+        starts: 2026-11-26
+        ends: 2026-11-30
+        ends_note: 10 AM PT
+        notes: Bitburner is free year-round. Hacknet teaches real Linux commands.
+        
   - id: services
     title: Services
     emoji: 🤝🏼
@@ -389,3 +590,63 @@ sections:
         focus: Cloud
         notes: Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance
         via: "@vanani11"
+      - vendor: Faivelo
+        url: https://faivelo.com/black-friday
+        deal: 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts)
+        ends: 2026-12-01
+        focus: General
+        notes: Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain
+        via: "@ethannschwartz"
+      - vendor: Spaceship
+        url: https://www.spaceship.com/
+        deal: .com for $3.60 first year
+        code: "COM67"
+        starts: 2026-11-02
+        ends: 2026-12-04
+        focus: general
+        notes: "Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there."
+      - vendor: Porkbun
+        url: https://porkbun.com/
+        deal: Rolling Black Friday deals, new drops Nov 19, 23 and 27
+        code: 
+        ends: 2026-12-04
+        focus: general
+        notes: Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop.
+      - vendor: 1Password
+        url: https://1password.com/
+        deal: 50% off Individual annual ($2.99/mo first year); Families $4.49/mo
+        ends: 2026-11-30
+        focus: General
+        notes: New customers, first year only. 14-day free trial, no card needed.  
+      - vendor: Tuta
+        url: https://tuta.com/black-friday
+        deal: Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1)
+        ends: 2026-11-30
+        focus: Privacy
+        notes: Encrypted email and calendar, Germany-based. New customers only.  
+      - vendor: Incogni
+        url: https://incogni.com/
+        deal: 58% off annual plans
+        code: "BFCM26"
+        ends: 2026-12-04
+        focus: Privacy
+        notes: Data broker removal service. Useful for exec and personal exposure reduction.
+      - vendor: DeleteMe
+        url: https://joindeleteme.com/
+        deal: 20% off privacy plans for new members
+        code: BFCM2026
+        ends: 2026-11-30
+        focus: Privacy
+        notes: Data broker removal service. New members only.
+      - vendor: Proton Pass
+        url: https://proton.me/pass
+        deal: 60% off Pass Plus
+        ends: 2026-11-30   
+        focus: Privacy
+        notes: Password manager with hide-my-email aliases.
+      - vendor: Keeper Security
+        url: https://www.keepersecurity.com/
+        deal: 40% off personal plans
+        ends: 2026-12-01
+        focus: General
+        notes: Personal plans only, not business.  
