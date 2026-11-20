@@ -52,6 +52,8 @@ _Last updated: Nov 19, 2026 17:55 PST_
 | [Scanify](https://scanify.to/pricing?code=BFPRO) | 50% off Pro for 3 months ($10/mo instead of $20) | `BFPRO` | Dec 9 | Blue | Link, file, QR code and IP checker with 95+ antivirus engines, domain age, redirects and a sandbox screenshot. Renews at $20/mo, cancel anytime. · via [@techkar1m](https://github.com/techkar1m) |
 | [ExposureDrift](https://exposuredrift.com) | Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder) | — | Dec 30 | Blue | Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now. · via [@rxrsec](https://github.com/rxrsec) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
+| [Burp Bounty Pro](https://bountysecurity.ai/products/burp-bounty) | 40% off the first year of the yearly plan | `BLACKFRIDAY26` | Dec 3 | Red | Burp Suite extension to turn your methodology into automated vulnerability checks: visual profile editor, Smart Scan rules, multi-step scans and an optional AI Scanner. Requires Burp Suite Professional. Includes Burp Bounty Server.|
+| [Burp Bounty Server](https://bountysecurity.ai/pages/burp-bounty-server) | 40% off the first year of the yearly plan | `BLACKFRIDAY26` | Dec 3 | Red | Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.|
 
 ## Courses & Training
 
