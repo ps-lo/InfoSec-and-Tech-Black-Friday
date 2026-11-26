@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**129 active deals** of 130 listed
+**130 active deals** of 131 listed
 
-_Last updated: Nov 26, 2026 04:45 PST_
+_Last updated: Nov 26, 2026 09:03 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -64,6 +64,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 17 – Dec 31 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
 | [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | 100% OFF Basic plan for 5 months | `CyberMonday2026` | Nov 24 – Jan 30, 2027 | Blue / Security | via [@greenspark0](https://github.com/greenspark0) |
+| [Tenable Nessus](https://www.tenable.com/products/nessus) | 35% off For Tenable Nessus Professional | `takehalf` | Nov 27 | Red | Vulnerability Scanning solutions for SMBs and Consultants |
 
 ## Courses & Training
 
