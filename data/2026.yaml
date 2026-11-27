@@ -261,6 +261,14 @@ sections:
         ends: 2026-11-27
         notes: Vulnerability scanning solution for SMB and consultants 
         via: "@ashu2188"
+      - vendor: OSINTverse
+        url: https://osintverse.com/pricing
+        deal: 10% off any credit top-up (wallet credited the full amount)
+        code: "BLACKFRIDAY10"
+        ends: 2026-11-30
+        ends_note: 23:59 UTC
+        focus: Blue
+        notes: "OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources from one box, keep results in cases, map them in a team graph, or run it from the API and MCP server. Pay per lookup, no subscription."
       
   - id: courses
     title: Courses & Training
