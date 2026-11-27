@@ -258,6 +258,35 @@ sections:
     title: Courses & Training
     emoji: 🎓
     deals:
+      vendor: Pluralsight
+        url: https://www.pluralsight.com/pricing
+        deal: "60% off the first billing period of new Individual plans (Tech Essentials excluded)"
+        starts: 2026-11-24
+        ends: 2026-12-06
+        ends_note: "11:59 PM ET"
+        focus: "General / Cloud / Dev"
+        notes: "Applied in cart, no code. New subscribers only; renews at full price."
+      - vendor: Whizlabs
+        url: https://www.whizlabs.com/black-friday/
+        deal: "Up to 60% off Premium and Elite plans"
+        ends: 2026-11-28
+        ends_note: "11:59 PM IST"
+        focus: "Cloud"
+        notes: "Cloud and IT certification prep with practice tests and hands-on labs. No code."
+      - vendor: OSINT Combine Academy
+        url: https://training.osintcombine.com/
+        deal: "26% off on-demand courses and bundles; 40% off AI Essentials; 30% off Agentic AI for OSINT"
+        code: ["all-courses-all-bundles", "ai-essentials-2026", "ctrl_alt_agent"]
+        ends: 2026-11-30
+        focus: "Blue / OSINT"
+        notes: "One code per offer, in the order listed in the deal."
+      - vendor: ogSec
+        url: https://ogsec.co.uk/
+        deal: "Up to 35% off courses"
+        starts: 2026-11-17
+        ends: 2026-11-30
+        focus: "Red"
+        notes: "Applied automatically, no code."
       - vendor: Xintra
         url: https://www.xintra.org/courses
         deal: 30% off courses
@@ -622,6 +651,14 @@ sections:
     title: Practical Labs
     emoji: 🧪
     deals:
+      - vendor: SecDim
+        url: https://secdim.com/pricing
+        deal: "Professional 35% off ($155.92/yr, was $239.88); Team 25% off ($261/user/yr, was $348)"
+        code: ["APPSECONABUDGET2026", "APPSECTEAM2026"]
+        ends: 2026-11-30
+        ends_note: "end date not published, recheck"
+        focus: "Dev / AppSec"
+        notes: "Secure-coding labs. First code is for Professional, second for Team."
       - vendor: PentesterLab
         url: https://pentesterlab.com/pro
         deal: PRO 27% off, Student and Code Review for $699
@@ -700,9 +737,10 @@ sections:
         used: true
       - vendor: Hak5
         url: https://hak5.org/pages/hacked-november
-        deal: Discount varies, see site
+        deal: "Up to 60% off holiday gift packs, plus an extra $5-10 off pentest gear with code"
+        code: ["H4CK3DN0V26", "HACKEDCOIN"]
+        notes: "Gift pack prices need no code. HACKEDCOIN adds a free challenge coin on orders over $500 and stacks with H4CK3DN0V26."
         ends: 2026-11-30
-        notes: Pentest and red team gadgets.
         used: true
       - vendor: UniFi
         url: https://store.ui.com/us/en/tags/black-friday
@@ -809,6 +847,13 @@ sections:
     title: 3D Printing & Maker
     emoji: 🖨️
     deals:
+      - vendor: OpenELAB
+        url: https://openelab.io/
+        deal: "€5/€10/€15 off orders over €150/€200/€300, plus sale prices (Livox Mid-360L LiDAR 30% off)"
+        starts: 2026-11-15
+        ends: 2026-11-30
+        ends_note: "23:59 CET"
+        notes: "Electronics, dev boards and robotics parts. EU store, no code."
       - vendor: Creality
         url: https://store.creality.com/pages/sale
         deal: Discount varies daily, see site
