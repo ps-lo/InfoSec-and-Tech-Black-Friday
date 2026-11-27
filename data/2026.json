@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-27T12:22:48+00:00",
+  "generated": "2026-11-27T14:15:56+00:00",
   "deals": [
     {
       "section": "tools",
@@ -569,6 +569,24 @@
     {
       "section": "courses",
       "section_title": "Courses & Training",
+      "vendor": "Applied Network Defense",
+      "url": "https://networkdefense.io",
+      "deal": "25% off courses",
+      "codes": [],
+      "starts": null,
+      "ends": "2026-12-01",
+      "ends_note": "11:59 PM ET",
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": null,
+      "via": null,
+      "taken": true,
+      "used": false
+    },
+    {
+      "section": "courses",
+      "section_title": "Courses & Training",
       "vendor": "Pluralsight",
       "url": "https://www.pluralsight.com/pricing",
       "deal": "60% off the first billing period of new Individual plans (Tech Essentials excluded)",
@@ -657,7 +675,7 @@
       "focus": "blue",
       "notes": "Individual purchases only, excludes enterprise sales.",
       "via": "h0ng10",
-      "taken": false,
+      "taken": true,
       "used": false
     },
     {
