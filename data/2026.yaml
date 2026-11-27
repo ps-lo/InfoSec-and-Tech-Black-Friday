@@ -1095,6 +1095,15 @@ sections:
         ends_note: "end of day CET"
         focus: Cloud
         notes: "Cloud platform for apps, databases and workers on one compute plan, deployed from Git, Docker or a coding agent. EU and US regions."
+      - vendor: Staxa
+        url: https://staxa.dev/#pricing
+        deal: "50% off the first 3 months of Starter ($49 → $24.50/mo) or Growth ($199 → $99.50/mo)"
+        code: "STAXABF50"
+        starts: 2026-11-27
+        ends: 2026-11-30
+        ends_note: "11:59 PM ET"
+        focus: Cloud
+        notes: "SaaS hosting with an isolated app, database, subdomain and SSL per customer (own Kubernetes namespace), provisioned from a dashboard or one API call. Monthly billing, new subscriptions, first 100 customers."
       - vendor: Grayhat Warfare
         url: https://grayhatwarfare.com/packages
         deal: Get premium for €160 for the first year, down from €300, or Enterprise for €450 for the first year, down from €960
