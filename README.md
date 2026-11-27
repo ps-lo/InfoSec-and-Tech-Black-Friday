@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**134 active deals** of 135 listed
+**140 active deals** of 141 listed
 
-_Last updated: Nov 26, 2026 13:28 PST_
+_Last updated: Nov 26, 2026 18:56 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -70,6 +70,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
+| [Whizlabs](https://www.whizlabs.com/black-friday/) | Up to 60% off Premium and Elite plans | — | Nov 28 (11:59 PM IST) | Cloud | Cloud and IT certification prep with practice tests and hands-on labs. No code. |
 | [13Cubed](https://training.13cubed.com/) | $100 off all courses | `BLACKFRIDAY2026` | Nov 30 | Blue | DFIR and memory forensics courses by Richard Davis. |
 | [Blu Raven](https://academy.bluraven.io/courses) | Up to 40% off Courses | — | Nov 30 | Blue | Detection engineering and threat hunting courses, KQL-heavy. |
 | [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) 💖 | $700 off HERO bundle | — | Nov 30 | Blue | Incident response training and certification. |
@@ -81,7 +82,9 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Mission Infosec](https://devsecopspro.com/devsecops-pro-bfcm-2026) | Free access for 60 days - full course + labs | — | Nov 30 | DevSecOps / AppSec / Development | Learn by doing. Build security automation into pipelines using AWS and GitHub Actions. Anyone can use AI to write code. This course teaches you the skills to automate the security checks needed to deploy AI-written code safely. · via [@chad-butler-git](https://github.com/chad-butler-git) |
 | [Mobile Hacking Lab](https://ads.mobilehackinglab.com/bf/deals) | Mobile security course bundles from €249, up to 61% off | `DFA500`<br>`WEBKIT60`<br>`IOS999`<br>`BF26KU`<br>`BF26FCA` | Nov 30 (23:59 CET) | Red | Android and iOS exploitation and forensics bundles; the iOS WebKit course is presale. |
 | [Modern Security](https://www.modernsecurity.io/) | 20% off the Certified AI Security Expert (MSec-CAIS) certification | `msec-blackfriday20` | Nov 30 | Security / AI | Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout. |
+| [ogSec](https://ogsec.co.uk/) | Up to 35% off courses | — | Nov 17 – Nov 30 | Red | Applied automatically, no code. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
+| [OSINT Combine Academy](https://training.osintcombine.com/) | 26% off on-demand courses and bundles; 40% off AI Essentials; 30% off Agentic AI for OSINT | `all-courses-all-bundles`<br>`ai-essentials-2026`<br>`ctrl_alt_agent` | Nov 30 | Blue / OSINT | One code per offer, in the order listed in the deal. |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
 | [PwnedLabs](https://pwnedlabs.io/) 💖 | 25% off boot camps and subscriptions | `BLACKFRIDAY25` | Nov 30 | red | Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. |
 | [Red Team LLC](https://redteam.vip) | Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799 | — | Nov 30 | Red | Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1. · via [@DavidProbinsky](https://github.com/DavidProbinsky) |
@@ -110,6 +113,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Linux Foundation](https://training.linuxfoundation.org/) | Up to 65% off training and certifications | — | Dec 4 | Linux / Cloud | Announced as a save-the-date starting Nov 27; per-product terms not published yet. |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Altered Security](https://www.alteredsecurity.com/) 💖 | 20% off all courses and bootcamps, plus an extra 5% when you buy 2 or more items | — | Nov 23 – Dec 6 | Red | Red team, Active Directory and Azure labs and bootcamps. No code needed; use your purchase up to 6 months later. |
+| [Pluralsight](https://www.pluralsight.com/pricing) | 60% off the first billing period of new Individual plans (Tech Essentials excluded) | — | Nov 24 – Dec 6 (11:59 PM ET) | General / Cloud / Dev | Applied in cart, no code. New subscribers only; renews at full price. |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [CloudBreach](https://cloudbreach.io/blackfriday) | 30% off all courses and plans (Breaching Azure from $349, Breaching AWS from $419) | `BlackFriday26` | Dec 7 (23:59 EET) | Red / Cloud | Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE). |
 | [Hexordia](https://learn.hexordia.com/s/store) | 35% off Hexordia classes and class vouchers | `26BF35` | Nov 23 – Dec 7 (11:59 PM ET) | Blue | Applies to on-demand and virtual live classes and to class vouchers. |
@@ -128,6 +132,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing) | 40% off Pro Plus annual plans and Bootcamps | `LEVELUP40` | Nov 30 | Security / AI | Hands-on AI security labs for securing AI agents and LLM apps, plus AppSec, cloud, Kubernetes and threat modeling tracks. · via [@abhaybhargav](https://github.com/abhaybhargav) |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | 40% off the yearly plan and the 4-Month Pass | `BLACKFRIDAY40` | Nov 30 (23:59 UTC) | Security / AI | 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout. |
 | [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
+| [SecDim](https://secdim.com/pricing) | Professional 35% off ($155.92/yr, was $239.88); Team 25% off ($261/user/yr, was $348) | `APPSECONABUDGET2026`<br>`APPSECTEAM2026` | Nov 30 (end date not published, recheck) | Dev / AppSec | Secure-coding labs. First code is for Professional, second for Team. |
 | [PentesterLab](https://pentesterlab.com/pro) | PRO 27% off, Student and Code Review for $699 | — | Dec 2 | Red / Dev | via [@noblevk21](https://github.com/noblevk21) |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | 30% off one-year membership | `2026BF30` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | 50% off two-year membership | `2026BF50` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
@@ -138,7 +143,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 |---|---|---|---|---|---|
 | [Beelink](https://www.bee-link.com/pages/black-friday-cyber-monday) | Up to 17% off selected mini PCs and bundles | `BF495` | Nov 30 |  | BF495 is $100 off the GTR9 Pro |
 | [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 |  | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
-| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 |  | Pentest and red team gadgets. |
+| [Hak5](https://hak5.org/pages/hacked-november) ✨ | Up to 60% off holiday gift packs, plus an extra $5-10 off pentest gear with code | `H4CK3DN0V26`<br>`HACKEDCOIN` | Nov 30 |  | Gift pack prices need no code. HACKEDCOIN adds a free challenge coin on orders over $500 and stacks with H4CK3DN0V26. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 |  | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 |  | Great compact homelab boxes |
 | [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 |  | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
@@ -163,6 +168,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Creality](https://store.creality.com/pages/sale) | Discount varies daily, see site | — | Nov 29 | 3D printers and accessories. |
 | [RobotShop](https://www.robotshop.com/collections/on-sale) ✨ | Discount varies daily, see site | — | Nov 29 | Robotics and electronics parts, kits and tools. |
 | [Arduino](https://store-usa.arduino.cc/collections/black-friday) ✨ | Discount varies daily, see site | — | Nov 30 |  |
+| [OpenELAB](https://openelab.io/) | €5/€10/€15 off orders over €150/€200/€300, plus sale prices (Livox Mid-360L LiDAR 30% off) | — | Nov 15 – Nov 30 (23:59 CET) | Electronics, dev boards and robotics parts. EU store, no code. |
 | [Prusa](https://www.prusa3d.com/p/black-friday-2026/) | Up to $960 in free gifts with printers, up to 40% off Prusament | — | Nov 30 (11:59 PM PST) | Extras rather than price cuts. Free shipping over $200. |
 | [Seeed Studio](https://www.seeedstudio.com/) | $20 off every $200 on 500+ selected products | — | Nov 30 | XIAO boards, Meshtastic/LoRa, Home Assistant kits. |
 | [SparkFun](https://www.sparkfun.com/november_deals) ✨ | Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off | `BFCM2026` | Nov 30 |  |
