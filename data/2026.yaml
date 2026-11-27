@@ -36,8 +36,8 @@ sections:
     deals:
       - vendor: Hex-Rays
         url: https://hex-rays.com/cyber-week-2026
-        deal: "50% off IDA Pro (individuals), 30% off IDA Pro (companies)
-        code: "CYBER50 / CYBER30"
+        deal: "50% off IDA Pro (individuals), 30% off IDA Pro (companies)"
+        code: ["CYBER50", "CYBER30"]
         ends: 2026-12-06
         focus: Red / Blue
         notes: IDA Pro Disassembler
