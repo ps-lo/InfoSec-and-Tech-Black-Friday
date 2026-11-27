@@ -3,8 +3,29 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-27T02:56:34+00:00",
+  "generated": "2026-11-27T12:22:48+00:00",
   "deals": [
+    {
+      "section": "tools",
+      "section_title": "Tools",
+      "vendor": "Hex-Rays",
+      "url": "https://hex-rays.com/cyber-week-2026",
+      "deal": "50% off IDA Pro (individuals), 30% off IDA Pro (companies)",
+      "codes": [
+        "CYBER50",
+        "CYBER30"
+      ],
+      "starts": null,
+      "ends": "2026-12-06",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Red / Blue",
+      "notes": "IDA Pro Disassembler",
+      "via": "h0ng10",
+      "taken": false,
+      "used": false
+    },
     {
       "section": "tools",
       "section_title": "Tools",

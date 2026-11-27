@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**140 active deals** of 141 listed
+**141 active deals** of 142 listed
 
-_Last updated: Nov 26, 2026 18:56 PST_
+_Last updated: Nov 27, 2026 04:22 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -60,6 +60,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | 35% off annual or 20% off monthly plans | `BFCMM26` | Dec 4 | Red / AppSec | AI-driven web app and API pentest SaaS; new or free-plan users only, first year or first 6 months then normal renewal. |
 | [PortDroid](https://portdroid.net/black-friday-2026/) ✨ | 50% off PortDroid Pro | `CYBER_2026` | Dec 4 | general | Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website. |
 | [Akev](https://akev.dev/pricing) | 30% off the Pro licence (one-time, $49 → $34.30) | `BLACKFRIDAY` | Dec 6 (23:59 UTC) | Dev | Open-source HTTP(S) debugging proxy for intercepting, mocking and rewriting traffic from browsers, apps, phones and containers. · via [@akevdev](https://github.com/akevdev) |
+| [Hex-Rays](https://hex-rays.com/cyber-week-2026) | 50% off IDA Pro (individuals), 30% off IDA Pro (companies) | `CYBER50`<br>`CYBER30` | Dec 6 | Red / Blue | IDA Pro Disassembler · via [@h0ng10](https://github.com/h0ng10) |
 | [Scanify](https://scanify.to/pricing?code=BFPRO) | 50% off Pro for 3 months ($10/mo instead of $20) | `BFPRO` | Dec 9 | Blue | Link, file, QR code and IP checker with 95+ antivirus engines, domain age, redirects and a sandbox screenshot. Renews at $20/mo, cancel anytime. · via [@techkar1m](https://github.com/techkar1m) |
 | [ExposureDrift](https://exposuredrift.com) | Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder) | — | Dec 30 | Blue | Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now. · via [@rxrsec](https://github.com/rxrsec) |
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 17 – Dec 31 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
@@ -233,6 +234,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 
 ## Credits
 
+- [@h0ng10](https://github.com/h0ng10)
 - [@greenspark0](https://github.com/greenspark0)
 - [@rxrsec](https://github.com/rxrsec)
 - [@akevdev](https://github.com/akevdev)
@@ -247,7 +249,6 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@zColdWater](https://github.com/zColdWater)
 - [@tweathers-sec](https://github.com/tweathers-sec)
 - [@ashu2188](https://github.com/ashu2188)
-- [@h0ng10](https://github.com/h0ng10)
 - [@chad-butler-git](https://github.com/chad-butler-git)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
