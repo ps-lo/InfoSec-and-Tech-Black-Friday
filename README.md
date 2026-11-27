@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**143 active deals** of 144 listed
+**144 active deals** of 145 listed
 
-_Last updated: Nov 27, 2026 06:17 PST_
+_Last updated: Nov 27, 2026 13:39 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -216,6 +216,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
 | [Keeper Security](https://www.keepersecurity.com/pricing/personal-and-family.html) | 40% off personal plans | — | Dec 1 | General | Personal plans only, not business. |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans or 50% off the first 3 months on monthly plans (new customers) | — | Dec 1 | Cloud | Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance · via [@vanani11](https://github.com/vanani11) |
+| [Bordfeed](https://bordfeed.com/black-friday) | 50% off the first 3 months on Pro, Max or Ultra (Pro $79 → $39.50/mo); yearly plans 50% off the first year | `BFCM50` | Nov 27 – Dec 4 (23:59 CET) | Dev | Job data API: 500,000+ live jobs from company hiring pages, refreshed every night, closed roles removed. Get them by REST API, webhooks, email digests or an MCP server for ChatGPT and Claude. New subscriptions only. $20 free credit on sign-up, no card. · via [@tomaslau](https://github.com/tomaslau) |
 | [Incogni](https://incogni.com/) | 58% off annual plans | `BFCM26` | Dec 4 | Privacy | Data broker removal service. Useful for exec and personal exposure reduction. |
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
 | [Spaceship](https://www.spaceship.com/) | .com for $3.60 first year | `COM67` | Nov 2 – Dec 4 | general | Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there. |
@@ -265,6 +266,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@abhaybhargav](https://github.com/abhaybhargav)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
+- [@tomaslau](https://github.com/tomaslau)
 
 ## Past years
 

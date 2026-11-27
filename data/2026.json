@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-27T14:17:12+00:00",
+  "generated": "2026-11-27T21:39:21+00:00",
   "deals": [
     {
       "section": "tools",
@@ -2721,6 +2721,26 @@
       "focus": "Security",
       "notes": "Search public buckets (S3, Azure Blob Storage, Digital Ocean Spaces, etc.)",
       "via": "h0ng10",
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "services",
+      "section_title": "Services",
+      "vendor": "Bordfeed",
+      "url": "https://bordfeed.com/black-friday",
+      "deal": "50% off the first 3 months on Pro, Max or Ultra (Pro $79 → $39.50/mo); yearly plans 50% off the first year",
+      "codes": [
+        "BFCM50"
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-12-04",
+      "ends_note": "23:59 CET",
+      "evergreen": false,
+      "ended": false,
+      "focus": "Dev",
+      "notes": "Job data API: 500,000+ live jobs from company hiring pages, refreshed every night, closed roles removed. Get them by REST API, webhooks, email digests or an MCP server for ChatGPT and Claude. New subscriptions only. $20 free credit on sign-up, no card.",
+      "via": "tomaslau",
       "taken": false,
       "used": false
     }
