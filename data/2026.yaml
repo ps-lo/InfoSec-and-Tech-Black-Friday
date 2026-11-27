@@ -259,7 +259,7 @@ sections:
     emoji: 🎓
     deals:
       vendor: Pluralsight
-        url: https://www.pluralsight.com/pricing
+        url: "https://www.pluralsight.com/pricing"
         deal: "60% off the first billing period of new Individual plans (Tech Essentials excluded)"
         starts: 2026-11-24
         ends: 2026-12-06
