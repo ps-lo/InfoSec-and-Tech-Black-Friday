@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-28T01:38:41+00:00",
+  "generated": "2026-11-28T12:11:48+00:00",
   "deals": [
     {
       "section": "tools",
@@ -559,7 +559,7 @@
       "ends": "2026-11-27",
       "ends_note": null,
       "evergreen": false,
-      "ended": false,
+      "ended": true,
       "focus": null,
       "notes": "Vulnerability scanning solution for SMB and consultants",
       "via": "ashu2188",
@@ -603,6 +603,26 @@
       "focus": "Blue",
       "notes": "Phishing URL database and real-time feed: 10,000 API requests/day, 3 API keys, brand/domain/IP monitoring rules with webhook alerts, and a full historical database download (2009 to today, CSV and SQL). New Enterprise subscriptions only, renews at $99/yr.",
       "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "tools",
+      "section_title": "Tools",
+      "vendor": "DarkWebSonar",
+      "url": "https://darkwebsonar.io/pricing",
+      "deal": "3 months free on any yearly plan (12 months for the price of 9)",
+      "codes": [
+        "CYBERSALE26"
+      ],
+      "starts": "2026-11-28",
+      "ends": "2026-12-01",
+      "ends_note": "23:59 UTC",
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": "Dark web monitoring and threat intelligence: alerts when your company, domains or emails show up in breaches, stealer logs or ransomware leak sites; tracks thousands of threat actors, with API and MCP access on Pro. Starter $490 → $441/yr, Growth $990 → $891/yr, Pro $1,990 → $1,791/yr.",
+      "via": "DarkWebSonar",
       "taken": false,
       "used": false
     },
@@ -1680,7 +1700,7 @@
       "ends": "2026-11-27",
       "ends_note": null,
       "evergreen": false,
-      "ended": false,
+      "ended": true,
       "focus": "Red / Blue",
       "notes": "Auto-applied at checkout for individual accounts; certification bundles and business/education plans excluded, discount covers year one.",
       "via": null,
