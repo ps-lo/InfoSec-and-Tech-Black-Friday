@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**144 active deals** of 147 listed
+**145 active deals** of 148 listed
 
-_Last updated: Nov 28, 2026 04:11 PST_
+_Last updated: Nov 28, 2026 05:07 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -48,6 +48,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [DarkWebSonar](https://darkwebsonar.io/pricing) | 3 months free on any yearly plan (12 months for the price of 9) | `CYBERSALE26` | Nov 28 – Dec 1 (23:59 UTC) | Blue | Dark web monitoring and threat intelligence: alerts when your company, domains or emails show up in breaches, stealer logs or ransomware leak sites; tracks thousands of threat actors, with API and MCP access on Pro. Starter $490 → $441/yr, Growth $990 → $891/yr, Pro $1,990 → $1,791/yr. · via [@DarkWebSonar](https://github.com/DarkWebSonar) |
 | [Doppelgänger ATLAS](https://store.physicalexploit.com/products/atlas) | 50% off the ATLAS license for one year ($39 → $19.50 for one device, $69 → $34.50 for two) | — | Nov 27 – Dec 1 (11:59 PM ET) | Red / Physical | Android app for authorized physical security assessments: RFID card work with a Proxmark or Chameleon Ultra, Doppelgänger reader capture, an operational map and evidence capture. Applies at checkout, no code. [Documentation](https://atlas.mwgroup.io/). · via [@tweathers-sec](https://github.com/tweathers-sec) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
+| [MatchDNS](https://www.matchdns.com/promo/2026-blackfriday) | 50% off recurring on annual Pro ($19.90 → $9.95/yr) and Enterprise ($89.90 → $44.95/yr) plans | `BF2026` | Nov 27 – Dec 1 (08:00 UTC) | Blue / Networking | Authoritative Smart DNS platform with one-click DNSSEC, Attack Shield (DDoS/query flood analytics), 24/7 DNS hijack & uptime monitoring, auto-renewed Managed Wildcard SSL, GeoIP & ISP routing, and OpenAPI. Free plan available; recurring discount pre-filled on promo page. · via [@MatchDNS](https://github.com/MatchDNS) |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OmniForge](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html) | 83% off 3-in-1 Launch Security, Email DNS & AI Search Fix Suite ($29 to $5 one-time pass; individual VibeShield v7.0 / InboxShield v7.0 / CiteReady v6.0 passes $2) | — | Dec 1 (23:59 UTC) | Blue / Dev | Read-only passive web security, email DNS, and AI search launch audit suite: VibeShield v7.0 (116+ checks across JS secrets, Supabase RLS / CVE-2025-48757, Firebase rules, Next.js CVE-2025-29927, TLS & CSP AST), InboxShield v7.0 (SPF 10-lookup flattener, 28-selector DKIM, DMARC, BIMI, MTA-STS), and CiteReady v6.0 (/llms.txt & Schema.org). All diagnostic web scans, zero-install cli.sh, BrandShield v6.2 (78+ TLDs & USPTO), and 50 MIT Agent Skills are free; paid passes unlock domain-tailored copy-paste remediation code with no subscription. Auto-applied, no coupon code required. · via [@zColdWater](https://github.com/zColdWater) |
 | [PhishStats](https://phishstats.info/blackfriday) | 30% off Enterprise for the first year ($99 → $69.30/yr) | `BF2026` | Dec 1 | Blue | Phishing URL database and real-time feed: 10,000 API requests/day, 3 API keys, brand/domain/IP monitoring rules with webhook alerts, and a full historical database download (2009 to today, CSV and SQL). New Enterprise subscriptions only, renews at $99/yr. |
@@ -254,6 +255,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@zColdWater](https://github.com/zColdWater)
 - [@tweathers-sec](https://github.com/tweathers-sec)
 - [@ashu2188](https://github.com/ashu2188)
+- [@MatchDNS](https://github.com/MatchDNS)
 - [@DarkWebSonar](https://github.com/DarkWebSonar)
 - [@chad-butler-git](https://github.com/chad-butler-git)
 - [@oripka](https://github.com/oripka)
