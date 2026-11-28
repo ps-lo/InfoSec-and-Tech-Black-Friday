@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-27T21:39:21+00:00",
+  "generated": "2026-11-28T01:38:41+00:00",
   "deals": [
     {
       "section": "tools",
@@ -582,6 +582,26 @@
       "ended": false,
       "focus": "Blue",
       "notes": "OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources from one box, keep results in cases, map them in a team graph, or run it from the API and MCP server. Pay per lookup, no subscription.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "tools",
+      "section_title": "Tools",
+      "vendor": "PhishStats",
+      "url": "https://phishstats.info/blackfriday",
+      "deal": "30% off Enterprise for the first year ($99 → $69.30/yr)",
+      "codes": [
+        "BF2026"
+      ],
+      "starts": null,
+      "ends": "2026-12-01",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": "Phishing URL database and real-time feed: 10,000 API requests/day, 3 API keys, brand/domain/IP monitoring rules with webhook alerts, and a full historical database download (2009 to today, CSV and SQL). New Enterprise subscriptions only, renews at $99/yr.",
       "via": null,
       "taken": false,
       "used": false
